@@ -1,6 +1,6 @@
 ## Welcome to the Haven association GitHub page
 
-Haven is an independent international non-profit AI research association based in Hamburg, Germany. For more information, visit our website www.haven-association.org
+Haven is an independent international non-profit AI research association based in Hamburg, Germany. For more information, visit our website www.haven-association.org.
 
 ### Current Research
 
